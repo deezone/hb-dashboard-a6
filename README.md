@@ -1,4 +1,5 @@
-# HbDashboardA6
+# HydroBytes Dashboard (Angular 6) - HbDashboardA6
+A prototype dashboard to report the status of a HydroBytes system.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.1.
 
